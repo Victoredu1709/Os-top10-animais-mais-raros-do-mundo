@@ -1,6 +1,16 @@
 body{
-background-color: blue;
+background-color: black;
 }
+
 h1{
     font-size: 30px;
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+h2{
+    color: white;
 }
